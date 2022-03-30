@@ -1,4 +1,11 @@
 # javawork
+#2022-03-18프로젝트시작
+
+##2022-03-29
+###:hamster:[문자열형 변수](https://github.com/gytjs1234/Javaworks/tree/master/Java_10_Varriable_05)
+*문자열형 변수 선언하기
+*문자열형 변수 연산하기(연결연산)
+
 
 
 ##2022-03-30
