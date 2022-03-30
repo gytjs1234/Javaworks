@@ -1,20 +1,23 @@
 # javawork
 #2022-03-18프로젝트시작
 ###:heart_eyes:[변수만들기](https://github.com/gytjs1234/Javaworks/tree/master/Java_10_varriable)
-*2022-03-23
-*변수만들기
+
+* 2022-03-23
+* 변수만들기
 
 
 ###:heart_eyes:[변수선언,초기화](https://github.com/gytjs1234/Javaworks/tree/master/Java_10_Varriable_02)
-*2022-03-24
-*int변수배우기
-*변수 사칙연산
+
+* 2022-03-24
+* int변수배우기
+* 변수 사칙연산
 
 
 ###:heart_eyes:[숫자형 변수](https://github.com/gytjs1234/Javaworks/tree/master/Java_10%20_Varriable_03)
-*2022-03-25
-*구구단
-*+=,--,++ 증가시키기
+
+* 2022-03-25
+* 구구단
+* +=,--,++ 증가시키기
 
 
 
@@ -23,10 +26,10 @@
 
 ###:heart_eyes:[정수,실수형 변수](https://github.com/gytjs1234/Javaworks/tree/master/Java_10_Varriable_04)
 
-* 2022-03-28
-*retutn 키워드
-*double 키워드
-*int 키워드
+*  2022-03-28
+* retutn 키워드
+* double 키워드
+* int 키워드
 
 
 
