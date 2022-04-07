@@ -1,6 +1,6 @@
 package net.hysoun.method;
 
-public class method_02 {
+public class method02 {
 	public static void main(String[] args) {
 
 		/*
