@@ -11,13 +11,8 @@ public class GuGudan {
 	System.out.println("3 x 6="+ 3*6);
 	System.out.println("3 x 7="+ 3*7);
 	System.out.println("3 x 8="+ 3*8);
-	System.out.println("=============");
-	
-	
-	
-	
-	
-	
+	System.out.println("=============");	
 	
 }
+ 
 }
