@@ -5,7 +5,7 @@ public class ServiceV2 {
 		
 	}
 	
-	public int scoreKorSum() {
+	public int scoreKorSum(){
 		
 		//int[] intKor이름으로 정수형 배열 선언
 		//new int[100]개의 요소()저장공간을 생성하라

@@ -11,7 +11,7 @@ public class ServiceV1 {
 		int intNum4=(int)(Math.random()*100)+1;
 		int intNum5=(int)(Math.random()*100)+1;
 		
-		int intSum= intNum1;
+		int intSum = intNum1;
 			intSum=+intNum2;
 			intSum=+intNum3;
 			intSum=+intNum4;
