@@ -5,7 +5,7 @@ public class ArraysV5 {
 		int[] intScore = new int[100];
 
 		for (int i = 0; i < intScore.length; i++) {
-			intScore[i] = (int) (Math.random() * 100) + 1;
+			intScore[i] = (int)(Math.random() * 100) + 1;
 
 		}
 		/*

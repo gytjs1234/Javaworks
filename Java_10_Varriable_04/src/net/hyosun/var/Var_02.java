@@ -19,6 +19,7 @@ public static void main(String[] args) {
 	 *  */
 	
 	intNum2 =add();
+	System.out.println(intNum2);
 }//end main() 메서드
 
 //add()메소드 를 선언하기  자바에 없는 명령어를 만들었음

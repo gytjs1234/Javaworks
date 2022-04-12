@@ -7,6 +7,9 @@ public class ControllerV3 {
 		ServiceV3 sV3 = new ServiceV3();
 		sV3.viewKor3();
 		sV3.viewEng3();
+		sV3.viewMath();
+		
+		
 		
 		
 	}

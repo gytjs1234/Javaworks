@@ -2,7 +2,7 @@ package net.hyosun.var;
 
 public class Var_03 {
 
-	public static void main(String[] args) {
+	public static void main(String[] args){
 		// TODO Auto-generated method stub
 
 		
@@ -14,11 +14,7 @@ public class Var_03 {
 		intIndex= intIndex + 1;
 		intIndex= intIndex + 1;
 		intIndex= intIndex + 1;
-		intIndex= intIndex + 1;
-		intIndex= intIndex + 1;
-		intIndex= intIndex + 1;
-		intIndex= intIndex + 1;
-		intIndex= intIndex + 1;
+	
 		
 		
 		System.out.println(intIndex);

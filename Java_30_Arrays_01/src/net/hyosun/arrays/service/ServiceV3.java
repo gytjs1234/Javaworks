@@ -4,6 +4,7 @@ public class ServiceV3 {
 
 	int[] intKor;
 	int[] intEng;
+	int[] intMath;
 
 	/*
 	 * ServiceV3 클래스의 생성자 method return type이 아무것도 없다 method 이름이 클래스 이름과 같다(첫글자 대문자)
@@ -20,7 +21,10 @@ public class ServiceV3 {
 	public ServiceV3() {
 		intKor = new int[10];
 		intEng=new int[10];
-		intKor[3] = 100;
+		intMath=new int[10];
+		intKor[3] = 200;
+		intEng[3] = 100;
+		intMath[3]=500;
 	}
 
 	public void viewKor3() {
@@ -29,5 +33,8 @@ public class ServiceV3 {
 
 	public void viewEng3() {
 		System.out.println(intEng[3]);
+	}
+	public void viewMath() {
+		System.out.println(intMath[3]);
 	}
 }

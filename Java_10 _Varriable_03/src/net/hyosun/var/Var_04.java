@@ -9,7 +9,7 @@ public class Var_04 {
 		num1 = num1 + 10; // 영문자 17글자 (빈칸 ;)포함해서
 
 		// 용량을 줄이기 위해서
-		num1 = num1 + 10; // 영문자13글자
+		num1=num1+10; // 영문자13글자
         
 		
 		num1+= 10; // num1 =num1 +10;과 똑같은 코드
@@ -36,7 +36,7 @@ public class Var_04 {
 		
 		
 		
-		
+		System.out.println(num1);
 		
 		
 		

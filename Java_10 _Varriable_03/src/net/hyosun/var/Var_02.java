@@ -7,6 +7,8 @@ public class Var_02 {
 
 		int intNum1 = 100;
 		intNum1 =intNum1 + 200;
+		
+		
 		System.out.println(intNum1);
 		
 		

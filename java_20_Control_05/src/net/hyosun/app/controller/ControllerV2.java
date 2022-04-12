@@ -11,8 +11,8 @@ public class ControllerV2 {
 	public static void main(String[] args) {
 
 		ServiceV2 serviceV2 =new ServiceV2();
-		serviceV2.guguDan();
+		serviceV2.guguDan(8);
 		System.out.println("================");
-		serviceV2.guguDan(5);
+		serviceV2.guguDan(4);
 	}
 }
