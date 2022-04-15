@@ -27,10 +27,11 @@ public class ScoreServiceV1 {
 	public void makeScore() {
 		for (int i = 0; i < intKor.length; i++) {
 			/*
-			 * random()*50을 연산하면 0~49까지 범위의 임의 수가 생성된다 여기에 +51을 하면 0일떄는51, 49일떄는 100의 결과가
+			 * random()*50을 연산하면 0~49까지 범위의 임의 수가 생성된다 여기에 +51을 하면 0일떄는
+			 * 51, 49일떄는 100의 결과가
 			 * 생성된다 그래서 51~100까지의 범위에서 임의 수를 생성하는 코드
 			 */
-			intKor[i] = (int) (Math.random() * 50) + 51;// 51~100점까지범위
+			intKor[i] = (int)(Math.random() * 50) + 51;// 51~100점까지범위
 		}
 	}
 
