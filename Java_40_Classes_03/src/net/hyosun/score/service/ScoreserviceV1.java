@@ -13,7 +13,7 @@ public class ScoreserviceV1 {
 		this(10);
 	}
 
-	private ScoreV2VO[] scores;
+	protected  ScoreV2VO[] scores;
 
 	public ScoreserviceV1(int length) {
 		scores = new ScoreV2VO[length];
