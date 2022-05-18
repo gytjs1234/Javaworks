@@ -2,7 +2,7 @@ package net.hyuun.todo.controller;
 
 import java.util.List;
 
-import net.hyuun.model.todo.TodoVO;
+import net.hyosun.model.todo.TodoVO;
 import net.hyuun.todo.service.TodoService;
 import net.hyuun.todo.service.impl.TodoServiceImplV1;
 

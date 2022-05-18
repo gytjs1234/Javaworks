@@ -8,6 +8,8 @@ public interface InputService {
 	public Integer Menu();
 	//콘텐트를 입력받을 친구
 	public String inputContent();
+	public Integer selectTodo();
+	
 	
 
 }

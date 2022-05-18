@@ -2,7 +2,7 @@ package net.hyuun.todo.controller;
 
 import java.util.List;
 
-import net.hyuun.model.todo.TodoVO;
+import net.hyosun.model.todo.TodoVO;
 import net.hyuun.todo.service.InputService;
 import net.hyuun.todo.service.TodoService;
 import net.hyuun.todo.service.impl.InputServiceImplV1;
@@ -19,7 +19,7 @@ public class TodoControllerV11 {
 				System.out.println("업무번호를 잘 선택해");
 				continue;
 			}
-			if (menu == 5) {
+			if (menu == 5){
 				break;
 			} else if (menu == 1) {
 				String content = inService.inputContent();
